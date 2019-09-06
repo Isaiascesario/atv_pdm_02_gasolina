@@ -1,0 +1,4 @@
+#Fri Sep 06 15:58:50 BRT 2019
+base.0=/home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

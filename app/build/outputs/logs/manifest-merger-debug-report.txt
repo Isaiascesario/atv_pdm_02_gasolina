@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.android.material:material:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/26b4eca62a77eba87f789094fa8478c0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/fa22cba4f836a571748cf066e6e72d66/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/1d4fddd69f3a35b7206235b46b87e460/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/12483907b60b5a8aad33f59ee2bfff1d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/703096e9431cf663f85ba1fa1c6eaed1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/3ba1a35d0dca896e4c28ce4b81c42542/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/994b13d4925644375ab89e38fb49eaf7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/aa64499c01068f47ae81c2e2b3a1a089/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/2175fda9f0fd96bf68103571d0a92f9e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/d90c8867a4dcf752aa437db11e2de285/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/c07fb1bafdba2df3ff9c8b64ef75a9ae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/e0cff604ea806c99f9c67ffe17ff5f72/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/895a10b805cc2cb1273c21b84f259ce7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/260803df30222fbeed7a067c2173403a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/c0df9e787cfb98f660a120cf4b096c43/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/a970d8294c26b3f8b0cb4c177fbe8a8e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/35d8374cb41542823db3e08a3434bfb3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/bebb9277016148d029004c348ebd8eeb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/965bfb37caa27890730f5b27441feaba/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/80ec37320934d4c371faabd9659cd597/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/7da604f6743ee7ff533311694e6381b1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/8fbde096679fcf470c7192c6504b0580/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/e002fca7067864b0c4f21bd242e155f5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/433d2348d895ca35cbaa17ca53f11c37/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/cef0b82f16dd8251f3765ddd763b9d53/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/adddff780ff4f82fad911bb345b4b51c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/27da933fa5df0b1eaa3ba8de35c00e0f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/91d8893badbfffb4498ef0e6a0b033de/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/aff8e9dfa805c21529ef905d58336d71/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/f2d8fff0e53e5031faaafed805dca61b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/018ca36798b74662acd314e4300fea8d/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml
+		ADDED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml
+		ADDED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.google.android.material:material:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/26b4eca62a77eba87f789094fa8478c0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/26b4eca62a77eba87f789094fa8478c0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/1d4fddd69f3a35b7206235b46b87e460/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/1d4fddd69f3a35b7206235b46b87e460/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/965bfb37caa27890730f5b27441feaba/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/965bfb37caa27890730f5b27441feaba/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/80ec37320934d4c371faabd9659cd597/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/80ec37320934d4c371faabd9659cd597/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/965bfb37caa27890730f5b27441feaba/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:11:9-40
+activity#br.com.isaias.atv_pdm_02_gasolina.MainActivity
+ADDED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml
+INJECTED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/26b4eca62a77eba87f789094fa8478c0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/26b4eca62a77eba87f789094fa8478c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/fa22cba4f836a571748cf066e6e72d66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/fa22cba4f836a571748cf066e6e72d66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/1d4fddd69f3a35b7206235b46b87e460/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/1d4fddd69f3a35b7206235b46b87e460/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/12483907b60b5a8aad33f59ee2bfff1d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/12483907b60b5a8aad33f59ee2bfff1d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/703096e9431cf663f85ba1fa1c6eaed1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/703096e9431cf663f85ba1fa1c6eaed1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/3ba1a35d0dca896e4c28ce4b81c42542/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/3ba1a35d0dca896e4c28ce4b81c42542/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/994b13d4925644375ab89e38fb49eaf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/994b13d4925644375ab89e38fb49eaf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/aa64499c01068f47ae81c2e2b3a1a089/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/aa64499c01068f47ae81c2e2b3a1a089/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/2175fda9f0fd96bf68103571d0a92f9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/2175fda9f0fd96bf68103571d0a92f9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/d90c8867a4dcf752aa437db11e2de285/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/d90c8867a4dcf752aa437db11e2de285/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/c07fb1bafdba2df3ff9c8b64ef75a9ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/c07fb1bafdba2df3ff9c8b64ef75a9ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/e0cff604ea806c99f9c67ffe17ff5f72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/e0cff604ea806c99f9c67ffe17ff5f72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/895a10b805cc2cb1273c21b84f259ce7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/895a10b805cc2cb1273c21b84f259ce7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/260803df30222fbeed7a067c2173403a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/260803df30222fbeed7a067c2173403a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/c0df9e787cfb98f660a120cf4b096c43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/c0df9e787cfb98f660a120cf4b096c43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/a970d8294c26b3f8b0cb4c177fbe8a8e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/a970d8294c26b3f8b0cb4c177fbe8a8e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/35d8374cb41542823db3e08a3434bfb3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/35d8374cb41542823db3e08a3434bfb3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/bebb9277016148d029004c348ebd8eeb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/bebb9277016148d029004c348ebd8eeb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/965bfb37caa27890730f5b27441feaba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/965bfb37caa27890730f5b27441feaba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/80ec37320934d4c371faabd9659cd597/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/80ec37320934d4c371faabd9659cd597/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/7da604f6743ee7ff533311694e6381b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/7da604f6743ee7ff533311694e6381b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/8fbde096679fcf470c7192c6504b0580/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/8fbde096679fcf470c7192c6504b0580/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/e002fca7067864b0c4f21bd242e155f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/e002fca7067864b0c4f21bd242e155f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/433d2348d895ca35cbaa17ca53f11c37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/433d2348d895ca35cbaa17ca53f11c37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/cef0b82f16dd8251f3765ddd763b9d53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/cef0b82f16dd8251f3765ddd763b9d53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/adddff780ff4f82fad911bb345b4b51c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/adddff780ff4f82fad911bb345b4b51c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/27da933fa5df0b1eaa3ba8de35c00e0f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/27da933fa5df0b1eaa3ba8de35c00e0f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/91d8893badbfffb4498ef0e6a0b033de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/91d8893badbfffb4498ef0e6a0b033de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/aff8e9dfa805c21529ef905d58336d71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/aff8e9dfa805c21529ef905d58336d71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/f2d8fff0e53e5031faaafed805dca61b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/f2d8fff0e53e5031faaafed805dca61b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/018ca36798b74662acd314e4300fea8d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/018ca36798b74662acd314e4300fea8d/AndroidManifest.xml:20:5-44
+INJECTED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml
+INJECTED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml
+		ADDED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml
+		ADDED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/src/main/AndroidManifest.xml
