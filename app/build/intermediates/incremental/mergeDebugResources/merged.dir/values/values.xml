@@ -582,6 +582,8 @@
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="textMelhorUsarEtanol">Etanol</string>
+    <string name="textMelhorUsarGasolina">Gasolina</string>
     <string name="textPrecoEtanol">2,5</string>
     <string name="textPrecoGasolina">2,5</string>
     <string name="textViewEtanol">Preço Etanol</string>

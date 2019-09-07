@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/alunofatec-local/Área de Trabalho/workspace/atv_pdm_02_gasolina/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml",
+            "outputFile": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rUS\\values-es-rUS.xml",
             "map": [
                 {
-                    "source": "/home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/fa22cba4f836a571748cf066e6e72d66/res/values-es-rUS/values-es-rUS.xml",
+                    "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\values-es-rUS\\values-es-rUS.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/alunofatec-local/.gradle/caches/transforms-2/files-2.1/965bfb37caa27890730f5b27441feaba/res/values-es-rUS/values-es-rUS.xml",
+                    "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\68a2c5ab84c815c76a643d62740aeacb\\res\\values-es-rUS\\values-es-rUS.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

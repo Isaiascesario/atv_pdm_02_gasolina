@@ -4,4 +4,6 @@
     <string name="textViewEtanol">Preço Etanol</string>
     <string name="textPrecoGasolina">2,5</string>
     <string name="textPrecoEtanol">2,5</string>
+    <string name="textMelhorUsarGasolina">Gasolina</string>
+    <string name="textMelhorUsarEtanol">Etanol</string>
 </resources>
