@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
         }
         @Override
         public void onStopTrackingTouch(SeekBar seekBar) {
-            if(precoEtanol/precoGasolina > 0.7){
+            if(precoEtanol/precoGasolina >= 0.7){
                 textviewmelhorusar.setText(R.string.textMelhorUsarGasolina);
                 imgViewMelhorUsar.setImageResource(R.drawable.imagengasolina);
             }
@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
         }
         @Override
         public void onStopTrackingTouch(SeekBar seekBar) {
-            if(precoEtanol/precoGasolina > 0.7){
+            if(precoEtanol/precoGasolina >= 0.7){
                 textviewmelhorusar.setText(R.string.textMelhorUsarGasolina);
                 imgViewMelhorUsar.setImageResource(R.drawable.imagengasolina);
             }
