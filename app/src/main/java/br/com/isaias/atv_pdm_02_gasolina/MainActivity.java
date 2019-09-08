@@ -13,9 +13,8 @@ import java.text.NumberFormat;
 
 public class MainActivity extends AppCompatActivity {
     private NumberFormat currencyFormat = NumberFormat.getCurrencyInstance();
-
-    private double precoGasolina;
-    private double precoEtanol;
+    private double precoGasolina = 2.5;
+    private double precoEtanol = 2.5;
     private TextView textprecoGasolina;
     private TextView textprecoEtanol;
     private TextView textviewmelhorusar;

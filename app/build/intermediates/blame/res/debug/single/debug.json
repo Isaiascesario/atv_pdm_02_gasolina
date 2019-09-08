@@ -4,12 +4,12 @@
         "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable\\tooltip_frame_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
-        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
         "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_mtrl_linear.xml.flat",
@@ -28,24 +28,24 @@
         "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
-        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
         "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
@@ -88,12 +88,12 @@
         "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable\\tooltip_frame_light.xml"
     },
     {
-        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
         "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_light.xml.flat",
         "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_in.xml.flat",
@@ -128,12 +128,12 @@
         "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_seek_thumb.xml.flat",
-        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\color-v23\\abc_tint_seek_thumb.xml"
-    },
-    {
         "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_text_btn_ripple_color.xml.flat",
         "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\8bf25a39b9d4edca234bb7a3268711be\\res\\color\\mtrl_btn_text_btn_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_seek_thumb.xml.flat",
+        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
         "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
@@ -164,12 +164,12 @@
         "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
-        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
         "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat",
         "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\8bf25a39b9d4edca234bb7a3268711be\\res\\drawable-xxxhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
+        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\anim\\abc_popup_enter.xml"
     },
     {
         "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -180,12 +180,12 @@
         "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
         "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_material.xml.flat",
         "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
@@ -220,12 +220,12 @@
         "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable-watch-v20\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_btn_checkable.xml.flat",
-        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\color\\abc_tint_btn_checkable.xml"
-    },
-    {
         "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_btn_checkable.xml.flat",
+        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
         "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
@@ -252,12 +252,12 @@
         "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
-        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
         "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
         "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -272,12 +272,12 @@
         "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_switch_track.xml.flat",
@@ -344,12 +344,12 @@
         "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility.png.flat",
-        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\8bf25a39b9d4edca234bb7a3268711be\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
-    },
-    {
         "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\interpolator-v21_mtrl_fast_out_linear_in.xml.flat",
         "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\8bf25a39b9d4edca234bb7a3268711be\\res\\interpolator-v21\\mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\8bf25a39b9d4edca234bb7a3268711be\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -404,12 +404,12 @@
         "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "C:\\Users\\Isaias\\.gradle\\caches\\transforms-2\\files-2.1\\be34c9828f23e077193b63a966ec53ab\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",

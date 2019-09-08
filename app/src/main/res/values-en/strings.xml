@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">atv_pdm_02_gasolina</string>
+    <string name="textMelhorUsarEtanol" translatable="false">Ethanol</string>
+    <string name="textMelhorUsarGasolina" translatable="false">Gasoline</string>
+    <string name="textViewEtanol" translatable="false">Ethanol Price</string>
+    <string name="textViewGasolina" translatable="false">Gasoline Price</string>
+    <string name="textImagen">fuel photo</string>
+    <string name="textMelhorUsar">" It is better to use"</string>
+</resources>

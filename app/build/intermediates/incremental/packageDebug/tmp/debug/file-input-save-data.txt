@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Sep 07 11:47:13 BRT 2019
+#Sat Sep 07 13:22:45 BRT 2019
 1.base=C\:\\Users\\Isaias\\AndroidStudioProjects\\atv_pdm_02_gasolina\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY

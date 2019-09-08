@@ -2,8 +2,11 @@
     <string name="app_name">atv_pdm_02_gasolina</string>
     <string name="textViewGasolina">Preço Gasolina</string>
     <string name="textViewEtanol">Preço Etanol</string>
-    <string name="textPrecoGasolina">2,5</string>
-    <string name="textPrecoEtanol">2,5</string>
+    <string name="textPrecoGasolina" translatable="false">2,5</string>
+    <string name="textPrecoEtanol" translatable="false">2,5</string>
     <string name="textMelhorUsarGasolina">Gasolina</string>
     <string name="textMelhorUsarEtanol">Etanol</string>
+    <string name="textMelhorUsar">É melhor usar</string>
+    <string name="textImagen">foto do combustivel</string>
+
 </resources>

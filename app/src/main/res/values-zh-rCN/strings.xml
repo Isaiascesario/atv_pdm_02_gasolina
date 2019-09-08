@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">atv_pdm_02_gasolina</string>
+    <string name="textViewEtanol">" 乙醇价格"</string>
+    <string name="textViewGasolina">" 汽油价格"</string>
+    <string name="textMelhorUsarEtanol">乙醇</string>
+    <string name="textMelhorUsarGasolina">" 汽油"</string>
+    <string name="textImagen">" 燃料照片"</string>
+    <string name="textMelhorUsar">它最好用</string>
+</resources>
